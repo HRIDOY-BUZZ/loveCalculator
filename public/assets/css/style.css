@@ -1,0 +1,36 @@
+/* Header Starts */
+
+.head-div {
+    background: #F14668;
+    width: 100%;
+    height: 120px;
+}
+
+.shade {
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.4), transparent);
+    height: 100%;
+}
+
+.app-title {}
+
+.app-title p {
+    font-family: 'Pacifico', cursive;
+    font-size: 400%;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+.app-title span {
+    font-family: 'Monoton', cursive;
+    font-weight: 400;
+}
+
+
+/* Header Ends */
+
+
+/* Footer Starts */
+
+
+/* Footer Ends */
