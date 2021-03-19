@@ -11,8 +11,6 @@
     height: 100%;
 }
 
-.app-title {}
-
 .app-title p {
     font-family: 'Pacifico', cursive;
     font-size: 400%;
@@ -30,7 +28,46 @@
 /* Header Ends */
 
 
+/* Form Division Starts */
+
+.form-div {
+    background: #F14668;
+    width: 100%;
+    height: 550px;
+    margin: 20px 0;
+}
+
+
+/* Form Division Ends */
+
+
 /* Footer Starts */
+
+.footer-div {
+    background: #F14668;
+    width: 100%;
+    height: 200px;
+}
+
+.shade-b {
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.4), transparent);
+    height: 100%;
+}
+
+.copyright-text {
+    padding: 70px;
+}
+
+.copyright-text p {
+    text-align: center;
+    color: white;
+}
+
+.copyright-text a {
+    text-decoration: none;
+    color: white;
+    font-family: 'Monoton', cursive;
+}
 
 
 /* Footer Ends */
