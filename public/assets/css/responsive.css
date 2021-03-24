@@ -1,0 +1,59 @@
+@media screen and (max-width: 991px) {
+    .app-title {
+        padding-top: 15px;
+    }
+    .app-title p {
+        font-size: 300%;
+    }
+    .copyright-text p {
+        font-size: 90%;
+    }
+    .copyright-text a {
+        font-size: 90%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .app-title {
+        padding-top: 15px;
+    }
+    .app-title p {
+        font-size: 280%;
+    }
+    .copyright-text p {
+        font-size: 80%;
+    }
+    .copyright-text a {
+        font-size: 80%;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .app-title {
+        padding-top: 15px;
+    }
+    .app-title p {
+        font-size: 260%;
+    }
+    .copyright-text p {
+        font-size: 80%;
+    }
+    .copyright-text a {
+        font-size: 80%;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .app-title {
+        padding-top: 15px;
+    }
+    .app-title p {
+        font-size: 220%;
+    }
+    .copyright-text p {
+        font-size: 70%;
+    }
+    .copyright-text a {
+        font-size: 70%;
+    }
+}

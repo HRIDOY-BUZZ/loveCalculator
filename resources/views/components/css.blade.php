@@ -8,3 +8,4 @@
         <link rel="stylesheet" href="{{ asset('/assets/css/fontawesome.min.css') }}">
 		<!-- style css -->
 		<link rel="stylesheet" href="{{ asset('/assets/css/style.css') }}">
+        <link rel="stylesheet" href="{{ asset('/assets/css/responsive.css') }}">
