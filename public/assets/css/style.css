@@ -1,8 +1,3 @@
-.page-wrapper {
-    overflow-x: hidden;
-}
-
-
 /* Header Starts */
 
 .head-div {
@@ -82,6 +77,10 @@
 
 
 /* Form Division Ends */
+
+.result {
+    font-size: 40px !important;
+}
 
 
 /* Footer Starts */
