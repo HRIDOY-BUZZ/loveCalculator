@@ -50,7 +50,7 @@
                         <div class="col-lg-5 col-md-5 col-sm-12">
                         </div>
                         <div class="col-lg-7 col-md-7 col-sm-12">
-                            <input type="submit" class="form-control" name="submit" id="submit" value="Check Percentage">
+                            <input type="submit" class="form-control" name="submit" id="submit" value="Check %">
                         </div>
                     </div>
                     <div class="row">
