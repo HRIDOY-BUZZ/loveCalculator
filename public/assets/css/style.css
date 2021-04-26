@@ -1,3 +1,8 @@
+.page-wrapper {
+    overflow-x: hidden;
+}
+
+
 /* Header Starts */
 
 .head-div {
@@ -33,8 +38,46 @@
 .form-div {
     background: #F14668;
     width: 100%;
-    height: 600px;
     margin: 10px 0;
+    padding: 50px;
+}
+
+.form-div label {
+    font-size: 30px;
+    font-weight: 500;
+    color: white;
+    float: right;
+    font-family: 'Fredoka One', cursive;
+}
+
+.form-div .row {
+    margin: 30px 0px;
+}
+
+.form-div input[type=text] {
+    font-size: 27px;
+    font-weight: 400;
+    font-family: 'Fredoka One', cursive;
+}
+
+.form-div input[type=submit] {
+    font-size: 25px;
+    font-weight: 400;
+    font-family: 'Fredoka One', cursive;
+    background-image: linear-gradient(to top, #f14668de, #F14668, #f14668de);
+    color: white;
+    width: 70%;
+    border: 5px solid white;
+    border-radius: 35px;
+}
+
+.form-div input[type=submit]:hover {
+    background: white;
+    color: #F14668;
+    width: 70%;
+    border: 5px solid #F14668;
+    border-radius: 35px;
+    box-shadow: 0px 0px 20px 0px white;
 }
 
 
