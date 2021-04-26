@@ -1,6 +1,12 @@
+@media screen and (min-width: 1580px) {
+    .form-div {
+        height: 600px !important;
+    }
+}
+
 @media screen and (min-width: 1366px) {
     .form-div {
-        height: 60vh;
+        height: 400px;
     }
 }
 
