@@ -1,3 +1,10 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+
 /* Header Starts */
 
 .head-div {
@@ -80,6 +87,12 @@
 
 .result {
     font-size: 40px !important;
+}
+
+.errorMsg {
+    font-size: 12px;
+    color: red;
+    background: white;
 }
 
 
